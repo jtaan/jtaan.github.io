@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jtaan.github.io/EgS/sitemap.EgS.gz
